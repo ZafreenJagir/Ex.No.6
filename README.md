@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-###### Date:27-09-2025
+###### Date: 27-09-2025
 ###### Register no: 212223040252
 ###### Name :  Zafreen J
 # Aim:
